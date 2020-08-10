@@ -4448,7 +4448,7 @@ body.is-navPanel-visible #navPanel {
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: linear-gradient(
-      rgba(206, 27, 40, 0.35),
+      rgba(64, 179, 182, 0.35),
       rgba(206, 27, 40, 0.35)
     ),
     url(../../images/cta01.jpg);
